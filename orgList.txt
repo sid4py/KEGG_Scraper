@@ -1,0 +1,8 @@
+Streptococcus gordonii
+Streptococcus mitis
+Streptococcus mutans UA159
+Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Streptococcus pyogenes SF370
+Streptococcus sanguinis
+Streptococcus suis 05ZYH33
+Streptococcus thermophilus LMD-9
