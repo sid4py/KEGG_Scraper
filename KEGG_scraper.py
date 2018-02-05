@@ -1,3 +1,15 @@
+#########################################################
+# KEGG Pathway Databse Scraper                          #
+# This program takes an input file containing list of   #
+# organisms and their 3 letter codes (i.e. the output   #
+# file of get_OrgCode.py). It opens an instance of the  #
+# web browser (Firefox) and queries each organism's     #
+# page in the KEGG Pathway database. It scrapes data    #
+# from the Pathway coloumn of the table and keeps going #
+# to the next page till it reaches the last page. The   #
+# output is stored as a .txt file                       #
+#########################################################
+
 from selenium import webdriver
 
 #------------------------------------------------------
