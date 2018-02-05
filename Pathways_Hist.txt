@@ -1,0 +1,106 @@
+Pathway	Frequency
+2-Oxocarboxylic acid metabolism	7
+ABC transporters	7
+Acarbose and validamycin biosynthesis	5
+Alanine aspartate and glutamate metabolism	7
+Amino sugar and nucleotide sugar metabolism	7
+Aminoacyl-tRNA biosynthesis	7
+Aminobenzoate degradation	6
+Arachidonic acid metabolism	5
+Arginine and proline metabolism	7
+Arginine biosynthesis	7
+Ascorbate and aldarate metabolism	5
+Bacterial secretion system	7
+Base excision repair	7
+Benzoate degradation	5
+Biosynthesis of amino acids	7
+Biosynthesis of antibiotics	7
+Biosynthesis of secondary metabolites	7
+Biosynthesis of unsaturated fatty acids	7
+Biotin metabolism	7
+Butanoate metabolism	7
+C5-Branched dibasic acid metabolism	7
+Carbapenem biosynthesis	7
+Carbon metabolism	7
+Cationic antimicrobial peptide (CAMP) resistance	7
+Chloroalkane and chloroalkene degradation	7
+Citrate cycle (TCA cycle)	6
+Cyanoamino acid metabolism	7
+Cysteine and methionine metabolism	7
+D-Alanine metabolism	7
+D-Arginine and D-ornithine metabolism	3
+D-Glutamine and D-glutamate metabolism	7
+DNA replication	7
+Degradation of aromatic compounds	7
+Fatty acid biosynthesis	7
+Fatty acid degradation	1
+Fatty acid metabolism	7
+Folate biosynthesis	7
+Fructose and mannose metabolism	7
+Galactose metabolism	7
+Glutathione metabolism	7
+Glycerolipid metabolism	7
+Glycerophospholipid metabolism	7
+Glycine serine and threonine metabolism	7
+Glycolysis / Gluconeogenesis	7
+Glyoxylate and dicarboxylate metabolism	7
+Histidine metabolism	4
+Homologous recombination	7
+Inositol phosphate metabolism	7
+Lysine biosynthesis	7
+Lysine degradation	1
+Metabolic pathways	7
+Methane metabolism	7
+Microbial metabolism in diverse environments	7
+Mismatch repair	7
+Monobactam biosynthesis	7
+Naphthalene degradation	7
+Nicotinate and nicotinamide metabolism	7
+Nitrogen metabolism	7
+Nonribosomal peptide structures	2
+Novobiocin biosynthesis	5
+Nucleotide excision repair	7
+One carbon pool by folate	7
+Other glycan degradation	6
+Oxidative phosphorylation	7
+Pantothenate and CoA biosynthesis	7
+Pentose and glucuronate interconversions	7
+Pentose phosphate pathway	7
+Peptidoglycan biosynthesis	7
+Phenylalanine metabolism	4
+Phenylalanine tyrosine and tryptophan biosynthesis	7
+Phosphonate and phosphinate metabolism	5
+Phosphotransferase system (PTS)	7
+Polyketide sugar unit biosynthesis	5
+Porphyrin and chlorophyll metabolism	6
+Propanoate metabolism	7
+Protein export	7
+Purine metabolism	7
+Pyrimidine metabolism	7
+Pyruvate metabolism	7
+Quorum sensing	7
+RNA degradation	7
+RNA polymerase	7
+Riboflavin metabolism	7
+Ribosome	7
+Selenocompound metabolism	7
+Sphingolipid metabolism	3
+Starch and sucrose metabolism	7
+Streptomycin biosynthesis	7
+Styrene degradation	2
+Sulfur metabolism	7
+Sulfur relay system	7
+Synthesis and degradation of ketone bodies	1
+Taurine and hypotaurine metabolism	7
+Terpenoid backbone biosynthesis	7
+Thiamine metabolism	7
+Tryptophan metabolism	2
+Two-component system	7
+Tyrosine metabolism	5
+Ubiquinone and other terpenoid-quinone biosynthesis	4
+Valine leucine and isoleucine biosynthesis	7
+Valine leucine and isoleucine degradation	7
+Vancomycin resistance	7
+Vitamin B6 metabolism	7
+Xylene degradation	4
+beta-Lactam resistance	7
