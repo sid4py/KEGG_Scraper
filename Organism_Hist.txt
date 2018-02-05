@@ -1,8 +1,0 @@
-Organism	Number of Pathways
-Streptococcus gordonii	95
-Streptococcus mitis	88
-Streptococcus mutans UA159	98
-Streptococcus pneumoniae TIGR4 virulent serotype 4	90
-Streptococcus sanguinis	99
-Streptococcus suis 05ZYH33	98
-Streptococcus thermophilus LMD-9	94
