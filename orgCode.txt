@@ -1,0 +1,7 @@
+sgo	Streptococcus gordonii
+smb	Streptococcus mitis
+smu	Streptococcus mutans UA159
+spn	Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+ssa	Streptococcus sanguinis
+ssu	Streptococcus suis 05ZYH33
+ste	Streptococcus thermophilus LMD-9

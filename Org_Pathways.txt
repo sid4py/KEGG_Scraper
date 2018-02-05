@@ -1,0 +1,683 @@
+
+sgo
+
+Glycolysis / Gluconeogenesis - Streptococcus gordonii
+Citrate cycle (TCA cycle) - Streptococcus gordonii
+Pentose phosphate pathway - Streptococcus gordonii
+Pentose and glucuronate interconversions - Streptococcus gordonii
+Fructose and mannose metabolism - Streptococcus gordonii
+Galactose metabolism - Streptococcus gordonii
+Fatty acid biosynthesis - Streptococcus gordonii
+Ubiquinone and other terpenoid-quinone biosynthesis - Streptococcus gordonii
+Oxidative phosphorylation - Streptococcus gordonii
+Arginine biosynthesis - Streptococcus gordonii
+Purine metabolism - Streptococcus gordonii
+Pyrimidine metabolism - Streptococcus gordonii
+Alanine, aspartate and glutamate metabolism - Streptococcus gordonii
+Glycine, serine and threonine metabolism - Streptococcus gordonii
+Monobactam biosynthesis - Streptococcus gordonii
+Cysteine and methionine metabolism - Streptococcus gordonii
+Valine, leucine and isoleucine degradation - Streptococcus gordonii
+Valine, leucine and isoleucine biosynthesis - Streptococcus gordonii
+Lysine biosynthesis - Streptococcus gordonii
+Arginine and proline metabolism - Streptococcus gordonii
+Carbapenem biosynthesis - Streptococcus gordonii
+Histidine metabolism - Streptococcus gordonii
+Tyrosine metabolism - Streptococcus gordonii
+Phenylalanine metabolism - Streptococcus gordonii
+Phenylalanine, tyrosine and tryptophan biosynthesis - Streptococcus gordonii
+Novobiocin biosynthesis - Streptococcus gordonii
+Taurine and hypotaurine metabolism - Streptococcus gordonii
+Phosphonate and phosphinate metabolism - Streptococcus gordonii
+Selenocompound metabolism - Streptococcus gordonii
+Cyanoamino acid metabolism - Streptococcus gordonii
+D-Glutamine and D-glutamate metabolism - Streptococcus gordonii
+D-Arginine and D-ornithine metabolism - Streptococcus gordonii
+D-Alanine metabolism - Streptococcus gordonii
+Glutathione metabolism - Streptococcus gordonii
+Starch and sucrose metabolism - Streptococcus gordonii
+Other glycan degradation - Streptococcus gordonii
+Amino sugar and nucleotide sugar metabolism - Streptococcus gordonii
+Streptomycin biosynthesis - Streptococcus gordonii
+Polyketide sugar unit biosynthesis - Streptococcus gordonii
+Acarbose and validamycin biosynthesis - Streptococcus gordonii
+Peptidoglycan biosynthesis - Streptococcus gordonii
+Glycerolipid metabolism - Streptococcus gordonii
+Inositol phosphate metabolism - Streptococcus gordonii
+Glycerophospholipid metabolism - Streptococcus gordonii
+Arachidonic acid metabolism - Streptococcus gordonii
+Pyruvate metabolism - Streptococcus gordonii
+Chloroalkane and chloroalkene degradation - Streptococcus gordonii
+Naphthalene degradation - Streptococcus gordonii
+Aminobenzoate degradation - Streptococcus gordonii
+Glyoxylate and dicarboxylate metabolism - Streptococcus gordonii
+Propanoate metabolism - Streptococcus gordonii
+Butanoate metabolism - Streptococcus gordonii
+C5-Branched dibasic acid metabolism - Streptococcus gordonii
+One carbon pool by folate - Streptococcus gordonii
+Methane metabolism - Streptococcus gordonii
+Thiamine metabolism - Streptococcus gordonii
+Riboflavin metabolism - Streptococcus gordonii
+Vitamin B6 metabolism - Streptococcus gordonii
+Nicotinate and nicotinamide metabolism - Streptococcus gordonii
+Pantothenate and CoA biosynthesis - Streptococcus gordonii
+Biotin metabolism - Streptococcus gordonii
+Folate biosynthesis - Streptococcus gordonii
+Porphyrin and chlorophyll metabolism - Streptococcus gordonii
+Terpenoid backbone biosynthesis - Streptococcus gordonii
+Nitrogen metabolism - Streptococcus gordonii
+Sulfur metabolism - Streptococcus gordonii
+Aminoacyl-tRNA biosynthesis - Streptococcus gordonii
+Biosynthesis of unsaturated fatty acids - Streptococcus gordonii
+Metabolic pathways - Streptococcus gordonii
+Biosynthesis of secondary metabolites - Streptococcus gordonii
+Microbial metabolism in diverse environments - Streptococcus gordonii
+Biosynthesis of antibiotics - Streptococcus gordonii
+Carbon metabolism - Streptococcus gordonii
+2-Oxocarboxylic acid metabolism - Streptococcus gordonii
+Fatty acid metabolism - Streptococcus gordonii
+Degradation of aromatic compounds - Streptococcus gordonii
+Biosynthesis of amino acids - Streptococcus gordonii
+beta-Lactam resistance - Streptococcus gordonii
+Vancomycin resistance - Streptococcus gordonii
+Cationic antimicrobial peptide (CAMP) resistance - Streptococcus gordonii
+ABC transporters - Streptococcus gordonii
+Two-component system - Streptococcus gordonii
+Quorum sensing - Streptococcus gordonii
+Phosphotransferase system (PTS) - Streptococcus gordonii
+Ribosome - Streptococcus gordonii
+RNA degradation - Streptococcus gordonii
+RNA polymerase - Streptococcus gordonii
+DNA replication - Streptococcus gordonii
+Protein export - Streptococcus gordonii
+Bacterial secretion system - Streptococcus gordonii
+Base excision repair - Streptococcus gordonii
+Nucleotide excision repair - Streptococcus gordonii
+Mismatch repair - Streptococcus gordonii
+Homologous recombination - Streptococcus gordonii
+Sulfur relay system - Streptococcus gordonii
+
+smb
+
+Glycolysis / Gluconeogenesis - Streptococcus mitis
+Pentose phosphate pathway - Streptococcus mitis
+Pentose and glucuronate interconversions - Streptococcus mitis
+Fructose and mannose metabolism - Streptococcus mitis
+Galactose metabolism - Streptococcus mitis
+Ascorbate and aldarate metabolism - Streptococcus mitis
+Fatty acid biosynthesis - Streptococcus mitis
+Oxidative phosphorylation - Streptococcus mitis
+Arginine biosynthesis - Streptococcus mitis
+Purine metabolism - Streptococcus mitis
+Pyrimidine metabolism - Streptococcus mitis
+Alanine, aspartate and glutamate metabolism - Streptococcus mitis
+Glycine, serine and threonine metabolism - Streptococcus mitis
+Monobactam biosynthesis - Streptococcus mitis
+Cysteine and methionine metabolism - Streptococcus mitis
+Valine, leucine and isoleucine degradation - Streptococcus mitis
+Valine, leucine and isoleucine biosynthesis - Streptococcus mitis
+Lysine biosynthesis - Streptococcus mitis
+Arginine and proline metabolism - Streptococcus mitis
+Carbapenem biosynthesis - Streptococcus mitis
+Benzoate degradation - Streptococcus mitis
+Phenylalanine, tyrosine and tryptophan biosynthesis - Streptococcus mitis
+Taurine and hypotaurine metabolism - Streptococcus mitis
+Selenocompound metabolism - Streptococcus mitis
+Cyanoamino acid metabolism - Streptococcus mitis
+D-Glutamine and D-glutamate metabolism - Streptococcus mitis
+D-Alanine metabolism - Streptococcus mitis
+Glutathione metabolism - Streptococcus mitis
+Starch and sucrose metabolism - Streptococcus mitis
+Other glycan degradation - Streptococcus mitis
+Amino sugar and nucleotide sugar metabolism - Streptococcus mitis
+Streptomycin biosynthesis - Streptococcus mitis
+Peptidoglycan biosynthesis - Streptococcus mitis
+Glycerolipid metabolism - Streptococcus mitis
+Inositol phosphate metabolism - Streptococcus mitis
+Glycerophospholipid metabolism - Streptococcus mitis
+Arachidonic acid metabolism - Streptococcus mitis
+Sphingolipid metabolism - Streptococcus mitis
+Pyruvate metabolism - Streptococcus mitis
+Xylene degradation - Streptococcus mitis
+Chloroalkane and chloroalkene degradation - Streptococcus mitis
+Naphthalene degradation - Streptococcus mitis
+Glyoxylate and dicarboxylate metabolism - Streptococcus mitis
+Propanoate metabolism - Streptococcus mitis
+Butanoate metabolism - Streptococcus mitis
+C5-Branched dibasic acid metabolism - Streptococcus mitis
+One carbon pool by folate - Streptococcus mitis
+Methane metabolism - Streptococcus mitis
+Thiamine metabolism - Streptococcus mitis
+Riboflavin metabolism - Streptococcus mitis
+Vitamin B6 metabolism - Streptococcus mitis
+Nicotinate and nicotinamide metabolism - Streptococcus mitis
+Pantothenate and CoA biosynthesis - Streptococcus mitis
+Biotin metabolism - Streptococcus mitis
+Folate biosynthesis - Streptococcus mitis
+Porphyrin and chlorophyll metabolism - Streptococcus mitis
+Terpenoid backbone biosynthesis - Streptococcus mitis
+Nitrogen metabolism - Streptococcus mitis
+Sulfur metabolism - Streptococcus mitis
+Aminoacyl-tRNA biosynthesis - Streptococcus mitis
+Biosynthesis of unsaturated fatty acids - Streptococcus mitis
+Metabolic pathways - Streptococcus mitis
+Biosynthesis of secondary metabolites - Streptococcus mitis
+Microbial metabolism in diverse environments - Streptococcus mitis
+Biosynthesis of antibiotics - Streptococcus mitis
+Carbon metabolism - Streptococcus mitis
+2-Oxocarboxylic acid metabolism - Streptococcus mitis
+Fatty acid metabolism - Streptococcus mitis
+Degradation of aromatic compounds - Streptococcus mitis
+Biosynthesis of amino acids - Streptococcus mitis
+beta-Lactam resistance - Streptococcus mitis
+Vancomycin resistance - Streptococcus mitis
+Cationic antimicrobial peptide (CAMP) resistance - Streptococcus mitis
+ABC transporters - Streptococcus mitis
+Two-component system - Streptococcus mitis
+Quorum sensing - Streptococcus mitis
+Phosphotransferase system (PTS) - Streptococcus mitis
+Ribosome - Streptococcus mitis
+RNA degradation - Streptococcus mitis
+RNA polymerase - Streptococcus mitis
+DNA replication - Streptococcus mitis
+Protein export - Streptococcus mitis
+Bacterial secretion system - Streptococcus mitis
+Base excision repair - Streptococcus mitis
+Nucleotide excision repair - Streptococcus mitis
+Mismatch repair - Streptococcus mitis
+Homologous recombination - Streptococcus mitis
+Sulfur relay system - Streptococcus mitis
+
+smu
+
+Glycolysis / Gluconeogenesis - Streptococcus mutans UA159
+Citrate cycle (TCA cycle) - Streptococcus mutans UA159
+Pentose phosphate pathway - Streptococcus mutans UA159
+Pentose and glucuronate interconversions - Streptococcus mutans UA159
+Fructose and mannose metabolism - Streptococcus mutans UA159
+Galactose metabolism - Streptococcus mutans UA159
+Ascorbate and aldarate metabolism - Streptococcus mutans UA159
+Fatty acid biosynthesis - Streptococcus mutans UA159
+Ubiquinone and other terpenoid-quinone biosynthesis - Streptococcus mutans UA159
+Oxidative phosphorylation - Streptococcus mutans UA159
+Arginine biosynthesis - Streptococcus mutans UA159
+Purine metabolism - Streptococcus mutans UA159
+Pyrimidine metabolism - Streptococcus mutans UA159
+Alanine, aspartate and glutamate metabolism - Streptococcus mutans UA159
+Glycine, serine and threonine metabolism - Streptococcus mutans UA159
+Monobactam biosynthesis - Streptococcus mutans UA159
+Cysteine and methionine metabolism - Streptococcus mutans UA159
+Valine, leucine and isoleucine degradation - Streptococcus mutans UA159
+Valine, leucine and isoleucine biosynthesis - Streptococcus mutans UA159
+Lysine biosynthesis - Streptococcus mutans UA159
+Lysine degradation - Streptococcus mutans UA159
+Arginine and proline metabolism - Streptococcus mutans UA159
+Carbapenem biosynthesis - Streptococcus mutans UA159
+Histidine metabolism - Streptococcus mutans UA159
+Tyrosine metabolism - Streptococcus mutans UA159
+Phenylalanine metabolism - Streptococcus mutans UA159
+Tryptophan metabolism - Streptococcus mutans UA159
+Phenylalanine, tyrosine and tryptophan biosynthesis - Streptococcus mutans UA159
+Novobiocin biosynthesis - Streptococcus mutans UA159
+Taurine and hypotaurine metabolism - Streptococcus mutans UA159
+Phosphonate and phosphinate metabolism - Streptococcus mutans UA159
+Selenocompound metabolism - Streptococcus mutans UA159
+Cyanoamino acid metabolism - Streptococcus mutans UA159
+D-Glutamine and D-glutamate metabolism - Streptococcus mutans UA159
+D-Arginine and D-ornithine metabolism - Streptococcus mutans UA159
+D-Alanine metabolism - Streptococcus mutans UA159
+Glutathione metabolism - Streptococcus mutans UA159
+Starch and sucrose metabolism - Streptococcus mutans UA159
+Amino sugar and nucleotide sugar metabolism - Streptococcus mutans UA159
+Streptomycin biosynthesis - Streptococcus mutans UA159
+Polyketide sugar unit biosynthesis - Streptococcus mutans UA159
+Acarbose and validamycin biosynthesis - Streptococcus mutans UA159
+Peptidoglycan biosynthesis - Streptococcus mutans UA159
+Glycerolipid metabolism - Streptococcus mutans UA159
+Inositol phosphate metabolism - Streptococcus mutans UA159
+Glycerophospholipid metabolism - Streptococcus mutans UA159
+Pyruvate metabolism - Streptococcus mutans UA159
+Chloroalkane and chloroalkene degradation - Streptococcus mutans UA159
+Naphthalene degradation - Streptococcus mutans UA159
+Aminobenzoate degradation - Streptococcus mutans UA159
+Glyoxylate and dicarboxylate metabolism - Streptococcus mutans UA159
+Propanoate metabolism - Streptococcus mutans UA159
+Styrene degradation - Streptococcus mutans UA159
+Butanoate metabolism - Streptococcus mutans UA159
+C5-Branched dibasic acid metabolism - Streptococcus mutans UA159
+One carbon pool by folate - Streptococcus mutans UA159
+Methane metabolism - Streptococcus mutans UA159
+Thiamine metabolism - Streptococcus mutans UA159
+Riboflavin metabolism - Streptococcus mutans UA159
+Vitamin B6 metabolism - Streptococcus mutans UA159
+Nicotinate and nicotinamide metabolism - Streptococcus mutans UA159
+Pantothenate and CoA biosynthesis - Streptococcus mutans UA159
+Biotin metabolism - Streptococcus mutans UA159
+Folate biosynthesis - Streptococcus mutans UA159
+Porphyrin and chlorophyll metabolism - Streptococcus mutans UA159
+Terpenoid backbone biosynthesis - Streptococcus mutans UA159
+Nitrogen metabolism - Streptococcus mutans UA159
+Sulfur metabolism - Streptococcus mutans UA159
+Aminoacyl-tRNA biosynthesis - Streptococcus mutans UA159
+Biosynthesis of unsaturated fatty acids - Streptococcus mutans UA159
+Nonribosomal peptide structures - Streptococcus mutans UA159
+Metabolic pathways - Streptococcus mutans UA159
+Biosynthesis of secondary metabolites - Streptococcus mutans UA159
+Microbial metabolism in diverse environments - Streptococcus mutans UA159
+Biosynthesis of antibiotics - Streptococcus mutans UA159
+Carbon metabolism - Streptococcus mutans UA159
+2-Oxocarboxylic acid metabolism - Streptococcus mutans UA159
+Fatty acid metabolism - Streptococcus mutans UA159
+Degradation of aromatic compounds - Streptococcus mutans UA159
+Biosynthesis of amino acids - Streptococcus mutans UA159
+beta-Lactam resistance - Streptococcus mutans UA159
+Vancomycin resistance - Streptococcus mutans UA159
+Cationic antimicrobial peptide (CAMP) resistance - Streptococcus mutans UA159
+ABC transporters - Streptococcus mutans UA159
+Two-component system - Streptococcus mutans UA159
+Quorum sensing - Streptococcus mutans UA159
+Phosphotransferase system (PTS) - Streptococcus mutans UA159
+Ribosome - Streptococcus mutans UA159
+RNA degradation - Streptococcus mutans UA159
+RNA polymerase - Streptococcus mutans UA159
+DNA replication - Streptococcus mutans UA159
+Protein export - Streptococcus mutans UA159
+Bacterial secretion system - Streptococcus mutans UA159
+Base excision repair - Streptococcus mutans UA159
+Nucleotide excision repair - Streptococcus mutans UA159
+Mismatch repair - Streptococcus mutans UA159
+Homologous recombination - Streptococcus mutans UA159
+Sulfur relay system - Streptococcus mutans UA159
+
+spn
+
+Glycolysis / Gluconeogenesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Citrate cycle (TCA cycle) - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Pentose phosphate pathway - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Pentose and glucuronate interconversions - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Fructose and mannose metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Galactose metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Ascorbate and aldarate metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Fatty acid biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Oxidative phosphorylation - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Arginine biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Purine metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Pyrimidine metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Alanine, aspartate and glutamate metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Glycine, serine and threonine metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Monobactam biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Cysteine and methionine metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Valine, leucine and isoleucine degradation - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Valine, leucine and isoleucine biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Lysine biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Arginine and proline metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Carbapenem biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Benzoate degradation - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Phenylalanine, tyrosine and tryptophan biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Taurine and hypotaurine metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Selenocompound metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Cyanoamino acid metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+D-Glutamine and D-glutamate metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+D-Alanine metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Glutathione metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Starch and sucrose metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Other glycan degradation - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Amino sugar and nucleotide sugar metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Streptomycin biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Peptidoglycan biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Glycerolipid metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Inositol phosphate metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Glycerophospholipid metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Arachidonic acid metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Sphingolipid metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Pyruvate metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Xylene degradation - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Chloroalkane and chloroalkene degradation - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Naphthalene degradation - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Aminobenzoate degradation - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Glyoxylate and dicarboxylate metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Propanoate metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Butanoate metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+C5-Branched dibasic acid metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+One carbon pool by folate - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Methane metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Thiamine metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Riboflavin metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Vitamin B6 metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Nicotinate and nicotinamide metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Pantothenate and CoA biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Biotin metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Folate biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Porphyrin and chlorophyll metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Terpenoid backbone biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Nitrogen metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Sulfur metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Aminoacyl-tRNA biosynthesis - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Biosynthesis of unsaturated fatty acids - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Metabolic pathways - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Biosynthesis of secondary metabolites - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Microbial metabolism in diverse environments - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Biosynthesis of antibiotics - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Carbon metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+2-Oxocarboxylic acid metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Fatty acid metabolism - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Degradation of aromatic compounds - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Biosynthesis of amino acids - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+beta-Lactam resistance - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Vancomycin resistance - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Cationic antimicrobial peptide (CAMP) resistance - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+ABC transporters - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Two-component system - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Quorum sensing - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Phosphotransferase system (PTS) - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Ribosome - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+RNA degradation - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+RNA polymerase - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+DNA replication - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Protein export - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Bacterial secretion system - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Base excision repair - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Nucleotide excision repair - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Mismatch repair - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Homologous recombination - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+Sulfur relay system - Streptococcus pneumoniae TIGR4 (virulent serotype 4)
+
+ssa
+
+Glycolysis / Gluconeogenesis - Streptococcus sanguinis
+Citrate cycle (TCA cycle) - Streptococcus sanguinis
+Pentose phosphate pathway - Streptococcus sanguinis
+Pentose and glucuronate interconversions - Streptococcus sanguinis
+Fructose and mannose metabolism - Streptococcus sanguinis
+Galactose metabolism - Streptococcus sanguinis
+Ascorbate and aldarate metabolism - Streptococcus sanguinis
+Fatty acid biosynthesis - Streptococcus sanguinis
+Ubiquinone and other terpenoid-quinone biosynthesis - Streptococcus sanguinis
+Oxidative phosphorylation - Streptococcus sanguinis
+Arginine biosynthesis - Streptococcus sanguinis
+Purine metabolism - Streptococcus sanguinis
+Pyrimidine metabolism - Streptococcus sanguinis
+Alanine, aspartate and glutamate metabolism - Streptococcus sanguinis
+Glycine, serine and threonine metabolism - Streptococcus sanguinis
+Monobactam biosynthesis - Streptococcus sanguinis
+Cysteine and methionine metabolism - Streptococcus sanguinis
+Valine, leucine and isoleucine degradation - Streptococcus sanguinis
+Valine, leucine and isoleucine biosynthesis - Streptococcus sanguinis
+Lysine biosynthesis - Streptococcus sanguinis
+Arginine and proline metabolism - Streptococcus sanguinis
+Carbapenem biosynthesis - Streptococcus sanguinis
+Histidine metabolism - Streptococcus sanguinis
+Tyrosine metabolism - Streptococcus sanguinis
+Benzoate degradation - Streptococcus sanguinis
+Phenylalanine, tyrosine and tryptophan biosynthesis - Streptococcus sanguinis
+Novobiocin biosynthesis - Streptococcus sanguinis
+Taurine and hypotaurine metabolism - Streptococcus sanguinis
+Phosphonate and phosphinate metabolism - Streptococcus sanguinis
+Selenocompound metabolism - Streptococcus sanguinis
+Cyanoamino acid metabolism - Streptococcus sanguinis
+D-Glutamine and D-glutamate metabolism - Streptococcus sanguinis
+D-Arginine and D-ornithine metabolism - Streptococcus sanguinis
+D-Alanine metabolism - Streptococcus sanguinis
+Glutathione metabolism - Streptococcus sanguinis
+Starch and sucrose metabolism - Streptococcus sanguinis
+Other glycan degradation - Streptococcus sanguinis
+Amino sugar and nucleotide sugar metabolism - Streptococcus sanguinis
+Streptomycin biosynthesis - Streptococcus sanguinis
+Polyketide sugar unit biosynthesis - Streptococcus sanguinis
+Acarbose and validamycin biosynthesis - Streptococcus sanguinis
+Peptidoglycan biosynthesis - Streptococcus sanguinis
+Glycerolipid metabolism - Streptococcus sanguinis
+Inositol phosphate metabolism - Streptococcus sanguinis
+Glycerophospholipid metabolism - Streptococcus sanguinis
+Arachidonic acid metabolism - Streptococcus sanguinis
+Sphingolipid metabolism - Streptococcus sanguinis
+Pyruvate metabolism - Streptococcus sanguinis
+Xylene degradation - Streptococcus sanguinis
+Chloroalkane and chloroalkene degradation - Streptococcus sanguinis
+Naphthalene degradation - Streptococcus sanguinis
+Aminobenzoate degradation - Streptococcus sanguinis
+Glyoxylate and dicarboxylate metabolism - Streptococcus sanguinis
+Propanoate metabolism - Streptococcus sanguinis
+Butanoate metabolism - Streptococcus sanguinis
+C5-Branched dibasic acid metabolism - Streptococcus sanguinis
+One carbon pool by folate - Streptococcus sanguinis
+Methane metabolism - Streptococcus sanguinis
+Thiamine metabolism - Streptococcus sanguinis
+Riboflavin metabolism - Streptococcus sanguinis
+Vitamin B6 metabolism - Streptococcus sanguinis
+Nicotinate and nicotinamide metabolism - Streptococcus sanguinis
+Pantothenate and CoA biosynthesis - Streptococcus sanguinis
+Biotin metabolism - Streptococcus sanguinis
+Folate biosynthesis - Streptococcus sanguinis
+Porphyrin and chlorophyll metabolism - Streptococcus sanguinis
+Terpenoid backbone biosynthesis - Streptococcus sanguinis
+Nitrogen metabolism - Streptococcus sanguinis
+Sulfur metabolism - Streptococcus sanguinis
+Aminoacyl-tRNA biosynthesis - Streptococcus sanguinis
+Biosynthesis of unsaturated fatty acids - Streptococcus sanguinis
+Nonribosomal peptide structures - Streptococcus sanguinis
+Metabolic pathways - Streptococcus sanguinis
+Biosynthesis of secondary metabolites - Streptococcus sanguinis
+Microbial metabolism in diverse environments - Streptococcus sanguinis
+Biosynthesis of antibiotics - Streptococcus sanguinis
+Carbon metabolism - Streptococcus sanguinis
+2-Oxocarboxylic acid metabolism - Streptococcus sanguinis
+Fatty acid metabolism - Streptococcus sanguinis
+Degradation of aromatic compounds - Streptococcus sanguinis
+Biosynthesis of amino acids - Streptococcus sanguinis
+beta-Lactam resistance - Streptococcus sanguinis
+Vancomycin resistance - Streptococcus sanguinis
+Cationic antimicrobial peptide (CAMP) resistance - Streptococcus sanguinis
+ABC transporters - Streptococcus sanguinis
+Two-component system - Streptococcus sanguinis
+Quorum sensing - Streptococcus sanguinis
+Phosphotransferase system (PTS) - Streptococcus sanguinis
+Ribosome - Streptococcus sanguinis
+RNA degradation - Streptococcus sanguinis
+RNA polymerase - Streptococcus sanguinis
+DNA replication - Streptococcus sanguinis
+Protein export - Streptococcus sanguinis
+Bacterial secretion system - Streptococcus sanguinis
+Base excision repair - Streptococcus sanguinis
+Nucleotide excision repair - Streptococcus sanguinis
+Mismatch repair - Streptococcus sanguinis
+Homologous recombination - Streptococcus sanguinis
+Sulfur relay system - Streptococcus sanguinis
+
+ssu
+
+Glycolysis / Gluconeogenesis - Streptococcus suis 05ZYH33
+Citrate cycle (TCA cycle) - Streptococcus suis 05ZYH33
+Pentose phosphate pathway - Streptococcus suis 05ZYH33
+Pentose and glucuronate interconversions - Streptococcus suis 05ZYH33
+Fructose and mannose metabolism - Streptococcus suis 05ZYH33
+Galactose metabolism - Streptococcus suis 05ZYH33
+Ascorbate and aldarate metabolism - Streptococcus suis 05ZYH33
+Fatty acid biosynthesis - Streptococcus suis 05ZYH33
+Fatty acid degradation - Streptococcus suis 05ZYH33
+Synthesis and degradation of ketone bodies - Streptococcus suis 05ZYH33
+Ubiquinone and other terpenoid-quinone biosynthesis - Streptococcus suis 05ZYH33
+Oxidative phosphorylation - Streptococcus suis 05ZYH33
+Arginine biosynthesis - Streptococcus suis 05ZYH33
+Purine metabolism - Streptococcus suis 05ZYH33
+Pyrimidine metabolism - Streptococcus suis 05ZYH33
+Alanine, aspartate and glutamate metabolism - Streptococcus suis 05ZYH33
+Glycine, serine and threonine metabolism - Streptococcus suis 05ZYH33
+Monobactam biosynthesis - Streptococcus suis 05ZYH33
+Cysteine and methionine metabolism - Streptococcus suis 05ZYH33
+Valine, leucine and isoleucine degradation - Streptococcus suis 05ZYH33
+Valine, leucine and isoleucine biosynthesis - Streptococcus suis 05ZYH33
+Lysine biosynthesis - Streptococcus suis 05ZYH33
+Arginine and proline metabolism - Streptococcus suis 05ZYH33
+Carbapenem biosynthesis - Streptococcus suis 05ZYH33
+Tyrosine metabolism - Streptococcus suis 05ZYH33
+Phenylalanine metabolism - Streptococcus suis 05ZYH33
+Benzoate degradation - Streptococcus suis 05ZYH33
+Tryptophan metabolism - Streptococcus suis 05ZYH33
+Phenylalanine, tyrosine and tryptophan biosynthesis - Streptococcus suis 05ZYH33
+Novobiocin biosynthesis - Streptococcus suis 05ZYH33
+Taurine and hypotaurine metabolism - Streptococcus suis 05ZYH33
+Phosphonate and phosphinate metabolism - Streptococcus suis 05ZYH33
+Selenocompound metabolism - Streptococcus suis 05ZYH33
+Cyanoamino acid metabolism - Streptococcus suis 05ZYH33
+D-Glutamine and D-glutamate metabolism - Streptococcus suis 05ZYH33
+D-Alanine metabolism - Streptococcus suis 05ZYH33
+Glutathione metabolism - Streptococcus suis 05ZYH33
+Starch and sucrose metabolism - Streptococcus suis 05ZYH33
+Other glycan degradation - Streptococcus suis 05ZYH33
+Amino sugar and nucleotide sugar metabolism - Streptococcus suis 05ZYH33
+Streptomycin biosynthesis - Streptococcus suis 05ZYH33
+Polyketide sugar unit biosynthesis - Streptococcus suis 05ZYH33
+Acarbose and validamycin biosynthesis - Streptococcus suis 05ZYH33
+Peptidoglycan biosynthesis - Streptococcus suis 05ZYH33
+Glycerolipid metabolism - Streptococcus suis 05ZYH33
+Inositol phosphate metabolism - Streptococcus suis 05ZYH33
+Glycerophospholipid metabolism - Streptococcus suis 05ZYH33
+Arachidonic acid metabolism - Streptococcus suis 05ZYH33
+Pyruvate metabolism - Streptococcus suis 05ZYH33
+Chloroalkane and chloroalkene degradation - Streptococcus suis 05ZYH33
+Naphthalene degradation - Streptococcus suis 05ZYH33
+Aminobenzoate degradation - Streptococcus suis 05ZYH33
+Glyoxylate and dicarboxylate metabolism - Streptococcus suis 05ZYH33
+Propanoate metabolism - Streptococcus suis 05ZYH33
+Styrene degradation - Streptococcus suis 05ZYH33
+Butanoate metabolism - Streptococcus suis 05ZYH33
+C5-Branched dibasic acid metabolism - Streptococcus suis 05ZYH33
+One carbon pool by folate - Streptococcus suis 05ZYH33
+Methane metabolism - Streptococcus suis 05ZYH33
+Thiamine metabolism - Streptococcus suis 05ZYH33
+Riboflavin metabolism - Streptococcus suis 05ZYH33
+Vitamin B6 metabolism - Streptococcus suis 05ZYH33
+Nicotinate and nicotinamide metabolism - Streptococcus suis 05ZYH33
+Pantothenate and CoA biosynthesis - Streptococcus suis 05ZYH33
+Biotin metabolism - Streptococcus suis 05ZYH33
+Folate biosynthesis - Streptococcus suis 05ZYH33
+Terpenoid backbone biosynthesis - Streptococcus suis 05ZYH33
+Nitrogen metabolism - Streptococcus suis 05ZYH33
+Sulfur metabolism - Streptococcus suis 05ZYH33
+Aminoacyl-tRNA biosynthesis - Streptococcus suis 05ZYH33
+Biosynthesis of unsaturated fatty acids - Streptococcus suis 05ZYH33
+Metabolic pathways - Streptococcus suis 05ZYH33
+Biosynthesis of secondary metabolites - Streptococcus suis 05ZYH33
+Microbial metabolism in diverse environments - Streptococcus suis 05ZYH33
+Biosynthesis of antibiotics - Streptococcus suis 05ZYH33
+Carbon metabolism - Streptococcus suis 05ZYH33
+2-Oxocarboxylic acid metabolism - Streptococcus suis 05ZYH33
+Fatty acid metabolism - Streptococcus suis 05ZYH33
+Degradation of aromatic compounds - Streptococcus suis 05ZYH33
+Biosynthesis of amino acids - Streptococcus suis 05ZYH33
+beta-Lactam resistance - Streptococcus suis 05ZYH33
+Vancomycin resistance - Streptococcus suis 05ZYH33
+Cationic antimicrobial peptide (CAMP) resistance - Streptococcus suis 05ZYH33
+ABC transporters - Streptococcus suis 05ZYH33
+Two-component system - Streptococcus suis 05ZYH33
+Quorum sensing - Streptococcus suis 05ZYH33
+Phosphotransferase system (PTS) - Streptococcus suis 05ZYH33
+Ribosome - Streptococcus suis 05ZYH33
+RNA degradation - Streptococcus suis 05ZYH33
+RNA polymerase - Streptococcus suis 05ZYH33
+DNA replication - Streptococcus suis 05ZYH33
+Protein export - Streptococcus suis 05ZYH33
+Bacterial secretion system - Streptococcus suis 05ZYH33
+Base excision repair - Streptococcus suis 05ZYH33
+Nucleotide excision repair - Streptococcus suis 05ZYH33
+Mismatch repair - Streptococcus suis 05ZYH33
+Homologous recombination - Streptococcus suis 05ZYH33
+Sulfur relay system - Streptococcus suis 05ZYH33
+
+ste
+
+Glycolysis / Gluconeogenesis - Streptococcus thermophilus LMD-9
+Citrate cycle (TCA cycle) - Streptococcus thermophilus LMD-9
+Pentose phosphate pathway - Streptococcus thermophilus LMD-9
+Pentose and glucuronate interconversions - Streptococcus thermophilus LMD-9
+Fructose and mannose metabolism - Streptococcus thermophilus LMD-9
+Galactose metabolism - Streptococcus thermophilus LMD-9
+Fatty acid biosynthesis - Streptococcus thermophilus LMD-9
+Oxidative phosphorylation - Streptococcus thermophilus LMD-9
+Arginine biosynthesis - Streptococcus thermophilus LMD-9
+Purine metabolism - Streptococcus thermophilus LMD-9
+Pyrimidine metabolism - Streptococcus thermophilus LMD-9
+Alanine, aspartate and glutamate metabolism - Streptococcus thermophilus LMD-9
+Glycine, serine and threonine metabolism - Streptococcus thermophilus LMD-9
+Monobactam biosynthesis - Streptococcus thermophilus LMD-9
+Cysteine and methionine metabolism - Streptococcus thermophilus LMD-9
+Valine, leucine and isoleucine degradation - Streptococcus thermophilus LMD-9
+Valine, leucine and isoleucine biosynthesis - Streptococcus thermophilus LMD-9
+Lysine biosynthesis - Streptococcus thermophilus LMD-9
+Arginine and proline metabolism - Streptococcus thermophilus LMD-9
+Carbapenem biosynthesis - Streptococcus thermophilus LMD-9
+Histidine metabolism - Streptococcus thermophilus LMD-9
+Tyrosine metabolism - Streptococcus thermophilus LMD-9
+Phenylalanine metabolism - Streptococcus thermophilus LMD-9
+Benzoate degradation - Streptococcus thermophilus LMD-9
+Phenylalanine, tyrosine and tryptophan biosynthesis - Streptococcus thermophilus LMD-9
+Novobiocin biosynthesis - Streptococcus thermophilus LMD-9
+Taurine and hypotaurine metabolism - Streptococcus thermophilus LMD-9
+Phosphonate and phosphinate metabolism - Streptococcus thermophilus LMD-9
+Selenocompound metabolism - Streptococcus thermophilus LMD-9
+Cyanoamino acid metabolism - Streptococcus thermophilus LMD-9
+D-Glutamine and D-glutamate metabolism - Streptococcus thermophilus LMD-9
+D-Alanine metabolism - Streptococcus thermophilus LMD-9
+Glutathione metabolism - Streptococcus thermophilus LMD-9
+Starch and sucrose metabolism - Streptococcus thermophilus LMD-9
+Other glycan degradation - Streptococcus thermophilus LMD-9
+Amino sugar and nucleotide sugar metabolism - Streptococcus thermophilus LMD-9
+Streptomycin biosynthesis - Streptococcus thermophilus LMD-9
+Polyketide sugar unit biosynthesis - Streptococcus thermophilus LMD-9
+Acarbose and validamycin biosynthesis - Streptococcus thermophilus LMD-9
+Peptidoglycan biosynthesis - Streptococcus thermophilus LMD-9
+Glycerolipid metabolism - Streptococcus thermophilus LMD-9
+Inositol phosphate metabolism - Streptococcus thermophilus LMD-9
+Glycerophospholipid metabolism - Streptococcus thermophilus LMD-9
+Pyruvate metabolism - Streptococcus thermophilus LMD-9
+Xylene degradation - Streptococcus thermophilus LMD-9
+Chloroalkane and chloroalkene degradation - Streptococcus thermophilus LMD-9
+Naphthalene degradation - Streptococcus thermophilus LMD-9
+Aminobenzoate degradation - Streptococcus thermophilus LMD-9
+Glyoxylate and dicarboxylate metabolism - Streptococcus thermophilus LMD-9
+Propanoate metabolism - Streptococcus thermophilus LMD-9
+Butanoate metabolism - Streptococcus thermophilus LMD-9
+C5-Branched dibasic acid metabolism - Streptococcus thermophilus LMD-9
+One carbon pool by folate - Streptococcus thermophilus LMD-9
+Methane metabolism - Streptococcus thermophilus LMD-9
+Thiamine metabolism - Streptococcus thermophilus LMD-9
+Riboflavin metabolism - Streptococcus thermophilus LMD-9
+Vitamin B6 metabolism - Streptococcus thermophilus LMD-9
+Nicotinate and nicotinamide metabolism - Streptococcus thermophilus LMD-9
+Pantothenate and CoA biosynthesis - Streptococcus thermophilus LMD-9
+Biotin metabolism - Streptococcus thermophilus LMD-9
+Folate biosynthesis - Streptococcus thermophilus LMD-9
+Porphyrin and chlorophyll metabolism - Streptococcus thermophilus LMD-9
+Terpenoid backbone biosynthesis - Streptococcus thermophilus LMD-9
+Nitrogen metabolism - Streptococcus thermophilus LMD-9
+Sulfur metabolism - Streptococcus thermophilus LMD-9
+Aminoacyl-tRNA biosynthesis - Streptococcus thermophilus LMD-9
+Biosynthesis of unsaturated fatty acids - Streptococcus thermophilus LMD-9
+Metabolic pathways - Streptococcus thermophilus LMD-9
+Biosynthesis of secondary metabolites - Streptococcus thermophilus LMD-9
+Microbial metabolism in diverse environments - Streptococcus thermophilus LMD-9
+Biosynthesis of antibiotics - Streptococcus thermophilus LMD-9
+Carbon metabolism - Streptococcus thermophilus LMD-9
+2-Oxocarboxylic acid metabolism - Streptococcus thermophilus LMD-9
+Fatty acid metabolism - Streptococcus thermophilus LMD-9
+Degradation of aromatic compounds - Streptococcus thermophilus LMD-9
+Biosynthesis of amino acids - Streptococcus thermophilus LMD-9
+beta-Lactam resistance - Streptococcus thermophilus LMD-9
+Vancomycin resistance - Streptococcus thermophilus LMD-9
+Cationic antimicrobial peptide (CAMP) resistance - Streptococcus thermophilus LMD-9
+ABC transporters - Streptococcus thermophilus LMD-9
+Two-component system - Streptococcus thermophilus LMD-9
+Quorum sensing - Streptococcus thermophilus LMD-9
+Phosphotransferase system (PTS) - Streptococcus thermophilus LMD-9
+Ribosome - Streptococcus thermophilus LMD-9
+RNA degradation - Streptococcus thermophilus LMD-9
+RNA polymerase - Streptococcus thermophilus LMD-9
+DNA replication - Streptococcus thermophilus LMD-9
+Protein export - Streptococcus thermophilus LMD-9
+Bacterial secretion system - Streptococcus thermophilus LMD-9
+Base excision repair - Streptococcus thermophilus LMD-9
+Nucleotide excision repair - Streptococcus thermophilus LMD-9
+Mismatch repair - Streptococcus thermophilus LMD-9
+Homologous recombination - Streptococcus thermophilus LMD-9
+Sulfur relay system - Streptococcus thermophilus LMD-9
