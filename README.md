@@ -32,3 +32,12 @@ This program can be adapted to scrape other kinds of information off the KEGG Da
 
 Writing this code was a learning exercise in interacting with the web, thus the use of Beautiful Soup and Selenium.
 The first program, get_OrgCode.py can be implemented as a function and the list of organisms can be directly input to KEGG_Scraper.py which will in turn import the function from get_OrgCode.py. This will reduce one step and make KEGG_Scraper more convenient.
+
+**File Descriptions**
+
+1) OrgList.txt - Input to get_OrgCode.py
+2) OrgCode.txt - Output of get_OrgCode.py AND input to KEGG_Scraper.py
+3) Org_Pathways.txt - Output of KEGG_Scraper.py AND input to format_Heatmap_data.py
+4) heatmap_Data.csv - Primary output of format_Heatmap_data.py
+5) Pathways_Hist.txt - Secondary output of format_Heatmap_data.py
+6) Organism_Hist.txt - Secondary output of format_Heatmap_data.py
